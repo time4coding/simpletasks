@@ -50,6 +50,7 @@
 <script>
 import TaskDataService from "../services/TaskDataService";
 export default {
+// eslint-disable-next-line
   name: "task",
   data() {
     return {
